@@ -1,0 +1,8 @@
+2023/09/17-18:13:39.648 3c70 Reusing MANIFEST C:/Users/Paradox/Documents/Unreal Projects/HorrorGame/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/09/17-18:13:39.649 3c70 Recovering log #7
+2023/09/17-18:13:39.649 3c70 Reusing old log C:/Users/Paradox/Documents/Unreal Projects/HorrorGame/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/000007.log 
+2023/09/17-21:32:55.774 2980 Level-0 table #12: started
+2023/09/17-21:32:55.774 2980 Level-0 table #12: 0 bytes OK
+2023/09/17-21:32:56.004 2980 Delete type=0 #7
+2023/09/17-21:32:56.004 2980 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2023/09/17-21:32:56.004 2980 Manual compaction at level-1 from (begin) .. (end); will stop at (end)
